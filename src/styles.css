@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  box-sizing: border-box;
+}
+.card {
+  padding: 10px;
+  flex: 0 1 31.33%;
+  max-width: 31.33%;
+}
+.card .card__inner {
+  padding: 20px;
+  background: tomato;
+  color: #fff;
+}
